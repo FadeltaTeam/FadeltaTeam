@@ -145,7 +145,7 @@ mindmap
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadelta_team)
-[![Telegram](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/fadelta_source)
+[![Telegram](https://img.shields.io/badge/Telegram-FF5722?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/fadelta_source)
 
 ### 💌 Professional Services Available!
 
