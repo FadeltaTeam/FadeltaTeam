@@ -165,7 +165,7 @@ mindmap
 
 <a href="https://nowpayments.io/donation?api_key=dc2b2d43-7f12-4c22-88b6-18c346a47679" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
+</a> **
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FadeltaTeam&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
