@@ -16,9 +16,16 @@
 
 <div align="center">
   
-![Faraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=default">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&theme=default">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarazAhz&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
