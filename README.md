@@ -35,8 +35,9 @@
 
 ## 🛠 Technical Expertise
 
-### 💾 Core Technologies
+
 <div align="center">
+### 💾 Core Technologies
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,8 +56,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 </div>
 
-### 🎨 Specializations
+
 <div align="center">
+### 🎨 Specializations
   
 ![VPN Services](https://img.shields.io/badge/VPN_Services-4A154B?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Server Management](https://img.shields.io/badge/Server_Management-FF6B35?style=for-the-badge&logo=server&logoColor=white)
@@ -65,8 +67,8 @@
 
 </div>
 
-### 🎭 Creative Tools
 <div align="center">
+### 🎭 Creative Tools
   
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
