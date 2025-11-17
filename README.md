@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Fadelta Team
+# 🌟 Faraz Dev
 
 ### 🚀 Full-Stack Developer × 🎨 WordPress Specialist × 📱 VPN & Server Consultant
 
@@ -46,12 +46,12 @@
 <tr>
 <td width="50%">
 
-![FadeltaTeam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadeltaTeam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![FadeltaTeam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitrpTeam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadeltaTeam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SitrpTeam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </td>
 </tr>
